@@ -9,7 +9,7 @@ This is an easy [tutorial](chatbot.ipynb) for creating a basic chatbot with a pr
 
 ## Usage
 
-Below is an example of calling the chatbot to answer questions from a document [climatechange.pdf](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf).
+Below is an example of calling the chatbot to answer questions from a document [climatechange.pdf](https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll.pdf).
 
 ```python
 vectors = initialize('climatechange.pdf')
