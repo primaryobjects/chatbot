@@ -1,5 +1,5 @@
-# Chatbot using Retrieval Augmented Generation and LLM
-======================================================
+Chatbot using Retrieval Augmented Generation and LLM
+====================================================
 
 A chatbot that uses a private knowledge-base with retrieval augmented generation.
 
