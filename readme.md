@@ -9,7 +9,7 @@ This is an easy [tutorial](chatbot.ipynb) for creating a basic chatbot with a pr
 
 ## Usage
 
-Below is an example of calling the chatbot to answer questions from a document.
+Below is an example of calling the chatbot to answer questions from a document [climatechange.pdf](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf).
 
 ```python
 vectors = initialize('climatechange.pdf')
@@ -32,7 +32,7 @@ The report was written by members of the Working Group I Technical Support Unit 
 
 ## Complete Chatbot
 
-A continuous loop allows the user to enter multiple queries for the chatbot to answer.
+A continuous loop allows the user to enter multiple queries for the chatbot to answer. This chatbot answers questions related to an article about [coffee](https://medium.com/illumination/i-tried-10-decaf-coffees-as-a-first-time-coffee-drinker-heres-what-i-found-a8c5fb93a40e?sk=03a1bb8109f779521d9ffec8f5f275ae).
 
 ```python
 vectors = initialize('coffee.html')
