@@ -3,6 +3,8 @@ Chatbot using Retrieval Augmented Generation and LLM
 
 A chatbot that uses a private knowledge-base with retrieval augmented generation.
 
+https://generativeai.pub/how-i-built-my-own-ai-chatbot-and-you-can-too-b1a9c9e4b39c
+
 ## What is it?
 
 This is an easy [tutorial](chatbot.ipynb) for creating a basic chatbot with a private knowledge-base. The chatbot can answer questions related to a specific business, product, or domain. Unlike general chatbots (ChatGPT, etc.), a personal chatbot trained using retrieval augmented generation (RAG) can answer questions that are specific to a domain. For example, the chatbot could answer questions from your company's support technical support; or it could have specific knowledge about your business brochure, or perhaps about a specific person (such as yourself), or even about a personal hobby.
