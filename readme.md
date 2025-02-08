@@ -9,6 +9,8 @@ https://generativeai.pub/how-i-built-my-own-ai-chatbot-and-you-can-too-b1a9c9e4b
 
 This is an easy [tutorial](chatbot.ipynb) for creating a basic chatbot with a private knowledge-base. The chatbot can answer questions related to a specific business, product, or domain. Unlike general chatbots (ChatGPT, etc.), a personal chatbot trained using retrieval augmented generation (RAG) can answer questions that are specific to a domain. For example, the chatbot could answer questions from your company's support technical support; or it could have specific knowledge about your business brochure, or perhaps about a specific person (such as yourself), or even about a personal hobby.
 
+In addition to the original chatbot, there is also an enhanced version that keeps track of the entire [conversation](conversation.ipynb).
+
 ## Usage
 
 Below is an example of calling the chatbot to answer questions from a document [climatechange.pdf](https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll.pdf).
